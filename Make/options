@@ -1,0 +1,5 @@
+EXE_INC = \
+    -I/public/home/LiuDJ/my_software/cantera-master/cantera_build/include
+
+EXE_LIBS = \    
+    /public/home/LiuDJ/my_software/cantera-master/cantera_build/lib/libcantera.a
